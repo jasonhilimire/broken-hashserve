@@ -1,7 +1,7 @@
-# broken-hasherve
-JumpCloud Broken-Hasherve QA Engineer Test
+# broken-hashserve
+JumpCloud Broken-Hashserve QA Engineer Test
 
-Manual test cases for the broke-hasherve application as part of the QA Engineer assignment for JumpCloud.  All Tests were performed manually on Max OSX 11.4
+Manual test cases for the broke-hashserve application as part of the QA Engineer assignment for JumpCloud.  All Tests were performed manually on Max OSX 11.4
 
 ## Setup
 Setup was perfored by following the recommended instructions but is outlined blow
