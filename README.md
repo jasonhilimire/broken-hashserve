@@ -25,4 +25,4 @@ shutdown.
 Outlined in the test document, but the best usage for this this program would definitely be automation.  Due to the time consumption of many of the manual tests and difficulties, not all where performed.  Many tests are best run utilizing automation or a manual test case is simply not redundant enough to validate all scenarios
 
 ## Performing Tests
-Launch application and follow Test Steps as outlined in the broken-hasherve_TESTCASES.rtf document https://github.com/jasonhilimire/broken-hashserve/blob/0c19f95360c0b2c10c8488bae8b13c7366eb8640/broken-hashserve_TESTCASES.rtf
+Launch application and follow Test Steps as outlined in the broken-hasherve_TESTCASES.rtf document https://github.com/jasonhilimire/broken-hashserve/blob/0c19f95360c0b2c10c8488bae8b13c7366eb8640/broken-hashserve_TESTCASES.rtf (due to formatting, its recommended to clone the repo and open the file manually)
