@@ -4,11 +4,11 @@
 Manual test cases for the broke-hashserve application as part of the QA Engineer assignment for JumpCloud.  All Tests were performed manually on Max OSX 11.4
 
 ## Setup
-Setup was perfored by following the recommended instructions but is outlined blow
+Setup was perfored by following the recommended instructions but is outlined below
 1. Download/Clone the files per instruction via wget or download directly from the AWS URL
 2. Add the following Environment variables to your .zrshc file 'export PORT=8088'
 
-## User Stores/Acceptance Criteria
+## User Stories/Acceptance Criteria
 1. When launched, the application should wait for http connections.
 2. It should answer on the PORT specified in the PORT environment variable.
  3. It should support three endpoints:
@@ -22,7 +22,7 @@ shutdown.
 6. No additional password requests should be allowed when shutdown is pending.
 
 ## Difficualties/Limitations
-Outlined in the test document, but the best usage for this this program would definitely be automation.  Due to the time consumption of many of the manual tests and difficulties, not all where performed.  Many tests are best run utilizing automation or a manual test case is simply not redundant enough to validate all scenarios
+Outlined in the test document, but the best usage for this this program would definitely be automation.  Due to the time consumption of many of the manual tests and difficulties, not all were performed.  Many tests are best run utilizing automation as a manual test case is simply not sufficient enough to validate all scenarios
 
 ## Performing Tests
 Launch application and follow Test Steps as outlined in the broken-hasherve_TESTCASES.rtf document https://github.com/jasonhilimire/broken-hashserve/blob/0c19f95360c0b2c10c8488bae8b13c7366eb8640/broken-hashserve_TESTCASES.rtf (due to formatting, its recommended to clone the repo and open the file manually)
